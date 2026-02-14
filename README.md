@@ -10,7 +10,7 @@ Hi there! 👋 I'm Siddheya Pitambare
 🛠️ Tech Stack
 
 Languages: Java, Python
-Frameworks & Tools: Android Studio
+Frameworks & Tools: Android Studio, Jupyter and Streamlit
 Databases: MySQL, Firebase
 
 🌱 Currently Learning
