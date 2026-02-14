@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi there! 👋 I'm Siddheya Pitambare
+🚀 About Me
 
-<!--
-**the-siddheya/the-siddheya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 College student passionate about learning and building impactful tech
+🏍️ Love riding my Royal Enfield & exploring new places
+💻 Android Developer (Java) & AI/ML Enthusiast
+📚 Building real-world projects to grow as a developer
+🤖 Currently diving deep into Artificial Intelligence & Machine Learning
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: Java, Python
+Frameworks & Tools: Android Studio
+Databases: MySQL, Firebase
+
+🌱 Currently Learning
+
+Artificial Intelligence & Machine Learning (AI/ML)
+
+Advanced Android Development
+
+Real-world AI project building
+
+📫 Connect With Me
+
+GitHub: the-siddheya
+Email: siddheypitambare@gmail.com
+LinkedIn: Siddheya Pitambare
