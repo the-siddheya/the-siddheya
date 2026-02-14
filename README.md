@@ -11,7 +11,7 @@ Hi there! 👋 I'm Siddheya Pitambare
 
 Languages: Java, Python
 <br>Frameworks & Tools: Android Studio, Jupyter and Streamlit
-Databases: MySQL, Firebase
+<br>Databases: MySQL, Firebase
 
 🌱 Currently Learning
 
