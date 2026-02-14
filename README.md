@@ -24,5 +24,5 @@ Real-world AI project building
 📫 Connect With Me
 
 GitHub: the-siddheya
-Email: siddheypitambare@gmail.com
-LinkedIn: Siddheya Pitambare
+<br>Email: siddheypitambare@gmail.com
+<br>LinkedIn: Siddheya Pitambare
