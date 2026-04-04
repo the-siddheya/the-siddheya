@@ -1,68 +1,28 @@
 <h1 align="center">Siddheya Pitambare</h1>
-<h3 align="center">AI Engineer | Generative AI | NLP | RAG Systems</h3>
+<p align="center"><b>AI Engineer • Generative AI • NLP • RAG Systems</b></p>
 
 <p align="center">
-Building Scalable AI Systems • LLM Applications • Real-World Impact
+Building scalable AI systems with real-world impact
 </p>
 
 ---
 
-## 🧠 About Me
-
-AI Engineer with hands-on experience in **Machine Learning, NLP, and Generative AI**, focused on building intelligent and scalable solutions.  
-
-Specialized in **Retrieval-Augmented Generation (RAG)**, embeddings, and LLM-based applications using modern AI tools.  
-
-Strong interest in solving real-world problems through **data-driven systems and AI innovation**.
+**About**
+AI Engineer focused on Machine Learning, NLP, and LLM-powered applications.  
+Experienced in building end-to-end AI systems with a strong emphasis on scalability and performance.
 
 ---
 
-## ⚡ Core Expertise
-
-- Machine Learning & Deep Learning  
-- Natural Language Processing (NLP)  
-- Generative AI & Large Language Models (LLMs)  
-- Retrieval-Augmented Generation (RAG)  
-- Model Optimization & Deployment  
+**Expertise**
+Machine Learning • Deep Learning • NLP • LLMs • RAG • Model Deployment  
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages**  
-Python • SQL  
-
-**AI/ML & NLP**  
-Transformers • Embeddings • ANN • RNN • LSTM • GRU  
-
-**Tools & Frameworks**  
-Scikit-learn • Hugging Face • Streamlit • Jupyter • Git  
-
-**Databases**  
-SQL • ChromaDB  
+**Stack**
+Python • SQL • Transformers • Hugging Face • Scikit-learn • Streamlit • ChromaDB  
 
 ---
 
-## 💼 Experience Snapshot
-
-**AI Developer Intern**  
-- Worked on ML, NLP & RAG-based systems  
-- Built scalable AI solutions with real-time deployment  
-
-**Lead – Android Development**  
-- Led a team of 16 members across multiple projects  
-- Focused on execution, collaboration & delivery  
-
----
-
-## 📫 Connect
-
+**Contact**
 Email: siddheyapitambare@gmail.com  
-LinkedIn: linkedin.com/in/siddheya-pitambare  
-GitHub: github.com/the-siddheya  
-
----
-
-## ⚡ Statement
-
-> Focused on building AI systems that are practical, scalable, and impactful.
+LinkedIn: linkedin.com/in/siddheya-pitambare
