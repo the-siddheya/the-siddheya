@@ -1,28 +1,104 @@
-Hi there! 👋 I'm Siddheya Pitambare
-🚀 About Me
+<h1 align="center">Siddheya Pitambare</h1>
+<h3 align="center">AI Engineer | Generative AI | NLP | RAG Systems</h3>
 
-🎓 College student passionate about learning and building impactful tech
-🏍️ Love riding my Royal Enfield & exploring new places
-💻 Android Developer (Java) & AI/ML Enthusiast
-📚 Building real-world projects to grow as a developer
-🤖 Currently diving deep into Artificial Intelligence & Machine Learning
+<p align="center">
+Building Scalable AI Solutions • LLM Applications • Real-World Impact
+</p>
 
-🛠️ Tech Stack
+---
 
-Languages: Java, Python
-<br>Frameworks & Tools: Android Studio, Jupyter and Streamlit
-<br>Databases: MySQL, Firebase
+## 🧠 Profile
 
-🌱 Currently Learning
+AI Engineer with hands-on experience in **Machine Learning, NLP, and Generative AI**, focused on building **end-to-end intelligent systems**.  
 
-Artificial Intelligence & Machine Learning (AI/ML)
+Strong expertise in **Retrieval-Augmented Generation (RAG)**, embeddings, and LLM-based applications using modern AI tools.  
 
-Advanced Android Development
+Experienced in developing **scalable AI solutions**, optimizing models, and deploying real-time applications.
 
-Real-world AI project building
+---
 
-📫 Connect With Me
+## ⚡ Core Expertise
 
-GitHub: the-siddheya
-<br>Email: siddheypitambare@gmail.com
-<br>LinkedIn: Siddheya Pitambare
+- Machine Learning & Deep Learning  
+- Natural Language Processing (NLP)  
+- Generative AI & Large Language Models (LLMs)  
+- Retrieval-Augmented Generation (RAG)  
+- Model Optimization & Deployment  
+
+---
+
+## 🛠️ Technical Stack
+
+**Languages**  
+Python • SQL  
+
+**AI/ML & NLP**  
+Scikit-learn • Transformers • Embeddings • ANN • RNN • LSTM • GRU  
+
+**Frameworks & Tools**  
+Hugging Face • Streamlit • Jupyter Notebook • Git  
+
+**Databases**  
+SQL • ChromaDB  
+
+---
+
+## 🚀 Key Projects
+
+### Enterprise AI Assistant (RAG Chatbot)
+- Built an intelligent document question-answering system  
+- Designed RAG pipeline using embeddings and semantic search  
+- Integrated LLM for real-time conversational responses  
+
+---
+
+### Smart Car Price Predictor
+- Developed regression model with feature engineering  
+- Performed data analysis and improved prediction accuracy  
+
+---
+
+### SMS Spam Detection System
+- Built NLP classification model using TF-IDF  
+- Applied preprocessing and supervised learning techniques  
+
+---
+
+## 💼 Experience
+
+**AI Developer Intern**  
+IGAP Technologies Pvt. Ltd.  
+- Developed ML and NLP models for predictive analytics  
+- Built RAG pipelines improving LLM accuracy  
+- Deployed AI solutions using Streamlit and Hugging Face  
+
+---
+
+**Lead – Android Development & Design**  
+Next Innovations  
+- Led a team of 16 members across 20+ projects  
+- Managed development workflows and collaboration  
+
+---
+
+## 🎓 Education
+
+B.Tech in Artificial Intelligence & Machine Learning  
+Sanjay Ghodawat University  
+
+- International Academic Exchange Program  
+  INTI International University, Malaysia  
+
+---
+
+## 📫 Contact
+
+Email: siddheyapitambare@gmail.com  
+LinkedIn: linkedin.com/in/siddheya-pitambare  
+GitHub: github.com/the-siddheya  
+
+---
+
+## ⚡ Philosophy
+
+> Building AI systems that are not just intelligent — but useful, scalable, and impactful.
